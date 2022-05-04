@@ -134,6 +134,28 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
+	{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Twitch',
+					link: 'https://www.twitch.tv',
+				},
+				{
+					name: 'Reddit'
+					link: 'https://www.reddit.com',
+				},
+				{
+					name: 'Twitter',
+					link: 'https://twitter.com/home',
+				},
+				{
+					name: 'Launches',
+					link: 'https://www.forumastronautico.it/t/calendario-lanci/24951',
+				},
+			],
+		},
 		{
 			icon: 'music',
 			id: '1',
@@ -153,28 +175,6 @@ const CONFIG = {
 				{
 					name: 'Rock',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
 				},
 			],
 		},
