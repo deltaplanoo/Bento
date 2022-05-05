@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://www.twitch.tv',
 				},
 				{
-					name: 'Reddit'
+					name: 'Reddit',
 					link: 'https://www.reddit.com',
 				},
 				{
