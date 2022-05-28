@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'OneDrive',
+					link: 'https://www.https://onedrive.live.com/?id=1FEFA23C0BFB89FC%2134594&cid=1FEFA23C0BFB89FC.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
 					name: 'Classic',
