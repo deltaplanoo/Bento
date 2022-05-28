@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'OneDrive',
-					link: 'https://www.https://onedrive.live.com/?id=1FEFA23C0BFB89FC%2134594&cid=1FEFA23C0BFB89FC',
+					link: 'https://onedrive.live.com/?id=1FEFA23C0BFB89FC%2134594&cid=1FEFA23C0BFB89FC',
 				},
 				{
 					name: 'Classic',
